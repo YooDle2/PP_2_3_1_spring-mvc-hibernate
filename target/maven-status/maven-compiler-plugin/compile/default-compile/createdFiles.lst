@@ -1,0 +1,9 @@
+spring\mvc\hibernate\config\MySpringMvcDispatcherSerlvetIntitializer.class
+spring\mvc\hibernate\config\AppConfig.class
+spring\mvc\hibernate\config\SpringConfig.class
+spring\mvc\hibernate\dao\UserDaoImp.class
+spring\mvc\hibernate\service\UserServiceImpl.class
+spring\mvc\hibernate\controllers\UserController.class
+spring\mvc\hibernate\model\User.class
+spring\mvc\hibernate\dao\UserDAO.class
+spring\mvc\hibernate\service\UserService.class
